@@ -1,0 +1,12 @@
+D:\MyC#\TaskListSolution\Classes\bin\Debug\net7.0\Classes.deps.json
+D:\MyC#\TaskListSolution\Classes\bin\Debug\net7.0\Classes.dll
+D:\MyC#\TaskListSolution\Classes\bin\Debug\net7.0\Classes.pdb
+D:\MyC#\TaskListSolution\Classes\obj\Debug\net7.0\Classes.csproj.AssemblyReference.cache
+D:\MyC#\TaskListSolution\Classes\obj\Debug\net7.0\Classes.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyC#\TaskListSolution\Classes\obj\Debug\net7.0\Classes.AssemblyInfoInputs.cache
+D:\MyC#\TaskListSolution\Classes\obj\Debug\net7.0\Classes.AssemblyInfo.cs
+D:\MyC#\TaskListSolution\Classes\obj\Debug\net7.0\Classes.csproj.CoreCompileInputs.cache
+D:\MyC#\TaskListSolution\Classes\obj\Debug\net7.0\Classes.dll
+D:\MyC#\TaskListSolution\Classes\obj\Debug\net7.0\refint\Classes.dll
+D:\MyC#\TaskListSolution\Classes\obj\Debug\net7.0\Classes.pdb
+D:\MyC#\TaskListSolution\Classes\obj\Debug\net7.0\ref\Classes.dll

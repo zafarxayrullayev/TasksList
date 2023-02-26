@@ -13,3 +13,6 @@ D:\MyC#\TaskListSolution\TaskList\obj\Debug\net7.0\refint\TaskList.dll
 D:\MyC#\TaskListSolution\TaskList\obj\Debug\net7.0\TaskList.pdb
 D:\MyC#\TaskListSolution\TaskList\obj\Debug\net7.0\TaskList.genruntimeconfig.cache
 D:\MyC#\TaskListSolution\TaskList\obj\Debug\net7.0\ref\TaskList.dll
+D:\MyC#\TaskListSolution\TaskList\bin\Debug\net7.0\Classes.dll
+D:\MyC#\TaskListSolution\TaskList\bin\Debug\net7.0\Classes.pdb
+D:\MyC#\TaskListSolution\TaskList\obj\Debug\net7.0\TaskList.csproj.CopyComplete

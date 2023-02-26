@@ -6,14 +6,6 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v7.0": {
-      "TaskList/1.0.0": {
-        "dependencies": {
-          "Classes": "1.0.0"
-        },
-        "runtime": {
-          "TaskList.dll": {}
-        }
-      },
       "Classes/1.0.0": {
         "runtime": {
           "Classes.dll": {}
@@ -22,11 +14,6 @@
     }
   },
   "libraries": {
-    "TaskList/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
     "Classes/1.0.0": {
       "type": "project",
       "serviceable": false,

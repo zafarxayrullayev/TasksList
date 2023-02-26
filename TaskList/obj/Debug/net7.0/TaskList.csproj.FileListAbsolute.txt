@@ -1,0 +1,15 @@
+D:\MyC#\TaskListSolution\TaskList\bin\Debug\net7.0\TaskList.exe
+D:\MyC#\TaskListSolution\TaskList\bin\Debug\net7.0\TaskList.deps.json
+D:\MyC#\TaskListSolution\TaskList\bin\Debug\net7.0\TaskList.runtimeconfig.json
+D:\MyC#\TaskListSolution\TaskList\bin\Debug\net7.0\TaskList.dll
+D:\MyC#\TaskListSolution\TaskList\bin\Debug\net7.0\TaskList.pdb
+D:\MyC#\TaskListSolution\TaskList\obj\Debug\net7.0\TaskList.csproj.AssemblyReference.cache
+D:\MyC#\TaskListSolution\TaskList\obj\Debug\net7.0\TaskList.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyC#\TaskListSolution\TaskList\obj\Debug\net7.0\TaskList.AssemblyInfoInputs.cache
+D:\MyC#\TaskListSolution\TaskList\obj\Debug\net7.0\TaskList.AssemblyInfo.cs
+D:\MyC#\TaskListSolution\TaskList\obj\Debug\net7.0\TaskList.csproj.CoreCompileInputs.cache
+D:\MyC#\TaskListSolution\TaskList\obj\Debug\net7.0\TaskList.dll
+D:\MyC#\TaskListSolution\TaskList\obj\Debug\net7.0\refint\TaskList.dll
+D:\MyC#\TaskListSolution\TaskList\obj\Debug\net7.0\TaskList.pdb
+D:\MyC#\TaskListSolution\TaskList\obj\Debug\net7.0\TaskList.genruntimeconfig.cache
+D:\MyC#\TaskListSolution\TaskList\obj\Debug\net7.0\ref\TaskList.dll
